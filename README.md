@@ -1,29 +1,40 @@
 # recipes-datasets
 Datasets on recipes and foods for recipe_recsys project
 
-Kaggle - Using ingredients to categorize cuisine, in JSON
+* Kaggle - Using ingredients to categorize cuisine, in JSON
+
 https://www.kaggle.com/kaggle/recipe-ingredients-dataset/home
 
-Reddit - a collection of food dataset links (also look into flavor profile repo)*
+* Reddit - a collection of food dataset links (also look into flavor profile repo)*
+
 https://www.reddit.com/r/datasets/comments/8nc1d3/is_there_a_dataset_for_a_list_of_all_foods/
 
-NYT ingredient tagger - modified for Python in manugarri's blog
-https://github.com/NYTimes/ingredient-phrase-tagger
-http://blog.manugarri.com/nyt_tagger/
 
-OpenRecipes repo - dump of 173278 recipes in JSON
+* NYT ingredient tagger - modified for Python in manugarri's blog
+
+https://github.com/NYTimes/ingredient-phrase-tagger
+
+  * http://blog.manugarri.com/nyt_tagger/
+
+
+* OpenRecipes repo - dump of 173278 recipes in JSON
 a database of recipe bookmarks without food preparation instructions (good!)
 https://github.com/fictivekin/openrecipes
 
-Scrape of ~125,000 recipes (with cooking instructions) from various food websites, 70,000 have associated images
+
+* Scrape of ~125,000 recipes (with cooking instructions) from various food websites, 70,000 have associated images
 https://eightportions.com/datasets/Recipes/#fn:1
 
-Scrape of recipes from various websites (Epicurious, BBC, Allrecipes and Cookstr)
-https://www.reddit.com/r/datasets/comments/94awca/thousands_of_recipes_from_epicurious_bbc/
-Seems to be the same crawl here, 140,000 English Recipes in computer-readable form with photos (same 4 sites, in HTML and JSON): https://archive.org/details/recipes-en-201706
 
-  related project looking at 3 decades of Epicurious food data (to look at food trends?):
+* Scrape of recipes from various websites (Epicurious, BBC, Allrecipes and Cookstr)
+
+https://www.reddit.com/r/datasets/comments/94awca/thousands_of_recipes_from_epicurious_bbc/
+
+  * Seems to be the same crawl here, 140,000 English Recipes in computer-readable form with photos (same 4 sites, in HTML and JSON): https://archive.org/details/recipes-en-201706
+
+  * related project looking at 3 decades of Epicurious food data (to look at food trends?):
   https://www.ceros.com/originals/epicurious-recipes-ingredients-part-2/
+
 
 
 ### Related:
@@ -31,33 +42,41 @@ Seems to be the same crawl here, 140,000 English Recipes in computer-readable fo
 10000 foods (grocery items with brands) with ingredients and weight (from datafiniti, uploaded to data.world) 5.1MB
 https://data.world/datafiniti/food-ingredient-lists
 
+
 OpenFoodFacts website - this looks promising?* 
+
 https://www.reddit.com/r/datasets/comments/3y560h/open_food_facts_database_information_and_data_on/
-also for commercial food products, but can search by country (see https://world.openfoodfacts.org/discover)
+
+It's also for commercial food products, but can search by country (see https://world.openfoodfacts.org/discover)
 
 Small Kaggle dataset scraped from online stores, classifying food products for restricted diets
 https://www.kaggle.com/theriley106/foodclassification/
 
 
+
 Technical article from NYTimes: "Extracting Structured Data From Recipes Using Conditional Random Fields" *
-Comments are very interesting also (found their (archived) GitHub code there)!
+
+  * Comments are very interesting also (found their (archived) GitHub code there)!
 https://open.blogs.nytimes.com/2015/04/09/extracting-structured-data-from-recipes-using-conditional-random-fields/
-https://github.com/nytimes/ingredient-phrase-tagger
+
+  * https://github.com/nytimes/ingredient-phrase-tagger
 NYTimes Cooking has a database of 17000+ recipes at the time of writing (April 2015)
 
-Also someone commented they made a related API:
+  * Also someone commented they made a related API:
 
-"The spoonacular Nutrition, Recipe, and Food API allows you to access over 365,000 recipes and 86,000 food products. Our food ontology and semantic recipe search engine makes it possible to search for recipes using natural language queries"
-https://rapidapi.com/spoonacular/api/recipe-food-nutrition?utm_source=mashape&utm_medium=301#parse-ingredients
+  > "The spoonacular Nutrition, Recipe, and Food API allows you to access over 365,000 recipes and 86,000 food products. Our food ontology and semantic recipe search engine makes it possible to search for recipes using natural language queries"
+  * https://rapidapi.com/spoonacular/api/recipe-food-nutrition?utm_source=mashape&utm_medium=301#parse-ingredients
 
 
 
 Kaggle dataset: 568454 fine food reviews from Amazon, from 1999 to 2012 (SQLite)
 https://www.kaggle.com/snap/amazon-fine-food-reviews
+
 (quite a few sentiment analysis projects, but someone did build a prediction system out of it - see top kernel) also fine foods here seem like fancy snacks and condiments, not foods for recipes 
 
+
 Reddit thread requesting labelled images of food:
-"the keyword to search is grocery"
+("the keyword to search is grocery")
 Link to multiple datasets or image recognition on grocery items
 https://www.reddit.com/r/datasets/comments/99lwyo/searching_labeled_food_dataset/
 
