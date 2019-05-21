@@ -21,6 +21,7 @@ https://eightportions.com/datasets/Recipes/#fn:1
 Scrape of recipes from various websites (Epicurious, BBC, Allrecipes and Cookstr)
 https://www.reddit.com/r/datasets/comments/94awca/thousands_of_recipes_from_epicurious_bbc/
 Seems to be the same crawl here, 140,000 English Recipes in computer-readable form with photos (same 4 sites, in HTML and JSON): https://archive.org/details/recipes-en-201706
+
   related project looking at 3 decades of Epicurious food data (to look at food trends?):
   https://www.ceros.com/originals/epicurious-recipes-ingredients-part-2/
 
@@ -43,7 +44,9 @@ Comments are very interesting also (found their (archived) GitHub code there)!
 https://open.blogs.nytimes.com/2015/04/09/extracting-structured-data-from-recipes-using-conditional-random-fields/
 https://github.com/nytimes/ingredient-phrase-tagger
 NYTimes Cooking has a database of 17000+ recipes at the time of writing (April 2015)
+
 Also someone commented they made a related API:
+
 "The spoonacular Nutrition, Recipe, and Food API allows you to access over 365,000 recipes and 86,000 food products. Our food ontology and semantic recipe search engine makes it possible to search for recipes using natural language queries"
 https://rapidapi.com/spoonacular/api/recipe-food-nutrition?utm_source=mashape&utm_medium=301#parse-ingredients
 
