@@ -1,5 +1,5 @@
 # recipes-datasets
-Datasets on recipes and foods for recipe_recsys project
+### Links to datasets on recipes and foods for recipe_recsys project
 
 * Kaggle - Using ingredients to categorize cuisine, in JSON
 
@@ -14,7 +14,7 @@ https://www.reddit.com/r/datasets/comments/8nc1d3/is_there_a_dataset_for_a_list_
 
 https://github.com/NYTimes/ingredient-phrase-tagger
 
-  * http://blog.manugarri.com/nyt_tagger/
+http://blog.manugarri.com/nyt_tagger/
 
 
 * OpenRecipes repo - dump of 173278 recipes in JSON
@@ -30,9 +30,9 @@ https://eightportions.com/datasets/Recipes/#fn:1
 
 https://www.reddit.com/r/datasets/comments/94awca/thousands_of_recipes_from_epicurious_bbc/
 
-  * Seems to be the same crawl here, 140,000 English Recipes in computer-readable form with photos (same 4 sites, in HTML and JSON): https://archive.org/details/recipes-en-201706
+   Seems to be the same crawl here, 140,000 English Recipes in computer-readable form with photos (same 4 sites, in HTML and JSON): https://archive.org/details/recipes-en-201706
 
-  * related project looking at 3 decades of Epicurious food data (to look at food trends?):
+   * related project looking at 3 decades of Epicurious food data (to look at food trends?):
   https://www.ceros.com/originals/epicurious-recipes-ingredients-part-2/
 
 
@@ -56,16 +56,16 @@ https://www.kaggle.com/theriley106/foodclassification/
 
 Technical article from NYTimes: "Extracting Structured Data From Recipes Using Conditional Random Fields" *
 
-  * Comments are very interesting also (found their (archived) GitHub code there)!
+   * Comments are very interesting also (found their (archived) GitHub code there)!
 https://open.blogs.nytimes.com/2015/04/09/extracting-structured-data-from-recipes-using-conditional-random-fields/
 
-  * https://github.com/nytimes/ingredient-phrase-tagger
+   * https://github.com/nytimes/ingredient-phrase-tagger
 NYTimes Cooking has a database of 17000+ recipes at the time of writing (April 2015)
 
-  * Also someone commented they made a related API:
+   * Also someone commented they made a related API:
 
   > "The spoonacular Nutrition, Recipe, and Food API allows you to access over 365,000 recipes and 86,000 food products. Our food ontology and semantic recipe search engine makes it possible to search for recipes using natural language queries"
-  * https://rapidapi.com/spoonacular/api/recipe-food-nutrition?utm_source=mashape&utm_medium=301#parse-ingredients
+   * https://rapidapi.com/spoonacular/api/recipe-food-nutrition?utm_source=mashape&utm_medium=301#parse-ingredients
 
 
 
