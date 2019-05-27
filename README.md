@@ -16,6 +16,8 @@ https://github.com/NYTimes/ingredient-phrase-tagger
 
 http://blog.manugarri.com/nyt_tagger/
 
+recent fork with bug fixes:
+https://github.com/mtlynch/ingredient-phrase-tagger
 
 * OpenRecipes repo - dump of 173278 recipes in JSON
 a database of recipe bookmarks without food preparation instructions (good!)
