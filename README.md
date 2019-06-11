@@ -3,7 +3,19 @@
 
 * Kaggle - Using ingredients to categorize cuisine, in JSON
 
-https://www.kaggle.com/kaggle/recipe-ingredients-dataset/home
+https://www.kaggle.com/kaggle/recipe-ingredients-dataset/home *
+
+Good dataset to start with (from Kaggle playground competition). Related projects:
+
+   * Forked on Kaggle (retry, learn algorithms, improve):  Cuisine classifier *
+https://www.kaggle.com/xinrucheng/cuisine-classification-with-accuracy-78-88/edit
+
+   * Top 10 most used ingredients (improve with word-stemming)
+https://www.kaggle.com/manuelatadvice/noname
+
+   * Cluster cuisine by ingredient? using Kmeans, read less readable? also has bugs
+https://www.kaggle.com/vincentclaes/clustering-food-by-cuisine
+
 
 * Reddit - a collection of food dataset links (also look into flavor profile repo)*
 
