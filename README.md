@@ -8,7 +8,7 @@ https://www.kaggle.com/kaggle/recipe-ingredients-dataset/home *
 Good dataset to start with (from Kaggle playground competition). Related projects:
 
    * Forked on Kaggle (retry, learn algorithms, improve):  Cuisine classifier *
-https://www.kaggle.com/xinrucheng/cuisine-classification-with-accuracy-78-88/edit
+https://www.kaggle.com/xinrucheng/cuisine-classification-with-accuracy-78-88/edit (Original: https://www.kaggle.com/rahulsridhar2811/cuisine-classification-with-accuracy-78-88)
 
    * Top 10 most used ingredients (improve with word-stemming)
 https://www.kaggle.com/manuelatadvice/noname
