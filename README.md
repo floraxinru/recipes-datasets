@@ -5,7 +5,9 @@
 
 https://www.kaggle.com/kaggle/recipe-ingredients-dataset/home *
 
-Good dataset to start with (from Kaggle playground competition). (June 27) no recipe name! just id number and list of ingredients
+Good dataset to start with (from Kaggle playground competition) 
+
+(June 27: no recipe name! just id number and list of ingredients)
 
 Related projects:
 
@@ -34,7 +36,8 @@ recent fork with bug fixes:
 https://github.com/mtlynch/ingredient-phrase-tagger
 
 * OpenRecipes repo - dump of 173278 recipes in JSON
-a database of recipe bookmarks without food preparation instructions (good!)
+a database of recipe bookmarks without food preparation instructions (good!) 
+(archived, Punchfork shutdown, "download DB dump" link doesn't work)
 https://github.com/fictivekin/openrecipes
 
 
@@ -42,7 +45,7 @@ https://github.com/fictivekin/openrecipes
 https://eightportions.com/datasets/Recipes/#fn:1
 
 
-* Scrape of recipes from various websites (Epicurious, BBC, Allrecipes and Cookstr)
+* Scrape of recipes from various websites (Epicurious, BBC, Allrecipes and Cookstr) (June 27: having trouble opening downloaded zipped files?)
 
 https://www.reddit.com/r/datasets/comments/94awca/thousands_of_recipes_from_epicurious_bbc/
 
