@@ -5,7 +5,9 @@
 
 https://www.kaggle.com/kaggle/recipe-ingredients-dataset/home *
 
-Good dataset to start with (from Kaggle playground competition). Related projects:
+Good dataset to start with (from Kaggle playground competition). (June 27) no recipe name! just id number and list of ingredients
+
+Related projects:
 
    * Forked on Kaggle (retry, learn algorithms, improve):  Cuisine classifier *
 https://www.kaggle.com/xinrucheng/cuisine-classification-with-accuracy-78-88/edit (Original: https://www.kaggle.com/rahulsridhar2811/cuisine-classification-with-accuracy-78-88)
@@ -74,7 +76,7 @@ Technical article from NYTimes: "Extracting Structured Data From Recipes Using C
 https://open.blogs.nytimes.com/2015/04/09/extracting-structured-data-from-recipes-using-conditional-random-fields/
 
    * https://github.com/nytimes/ingredient-phrase-tagger
-NYTimes Cooking has a database of 17000+ recipes at the time of writing (April 2015)
+NYTimes Cooking has a database of 17000+ recipes at the time of writing (April 2015) -- no ingredient name or list, just index and instructions
 
    * Also someone commented they made a related API:
 
