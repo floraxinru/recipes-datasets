@@ -7,7 +7,7 @@ https://www.kaggle.com/kaggle/recipe-ingredients-dataset/home *
 
 Good dataset to start with (from Kaggle playground competition) 
 
-(June 27: no recipe name! just id number and list of ingredients)
+(June 27: no recipe name! just id number and list of ingredients - still continue working with it because it is the smallest and cleanest recipe dataset we found so far)
 
 Related projects:
 
