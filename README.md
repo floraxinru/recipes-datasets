@@ -23,12 +23,13 @@ https://www.kaggle.com/manuelatadvice/noname - simple starter code, using origin
 https://www.kaggle.com/vincentclaes/clustering-food-by-cuisine
 
 
-* Reddit - a collection of food dataset links (also look into flavor profile repo)*
+* Reddit - a collection of food dataset links (also look into flavor profile repo)
 
 https://www.reddit.com/r/datasets/comments/8nc1d3/is_there_a_dataset_for_a_list_of_all_foods/
 
-  * Flavor network project https://github.com/lingcheng99/Flavor-Network 
-
+  * Flavor network project https://github.com/lingcheng99/Flavor-Network *
+  
+  
 
 * NYT ingredient tagger - modified for Python in manugarri's blog
 
@@ -46,15 +47,15 @@ a database of recipe bookmarks without food preparation instructions
 https://github.com/fictivekin/openrecipes
 
 
-* Scrape of ~125,000 recipes (with cooking instructions) from various food websites, 70,000 have associated images
-https://eightportions.com/datasets/Recipes/#fn:1
+* **recipe box**: Scrape of ~125,000 recipes (with cooking instructions) from various food websites, 70,000 have associated images
+https://eightportions.com/datasets/Recipes/#fn:1 [repo here](https://github.com/rtlee9/recipe-box)
 
 
 * Scrape of recipes from various websites (Epicurious, BBC, Allrecipes and Cookstr) (- June 27: having trouble opening downloaded zipped files?)
 
 https://www.reddit.com/r/datasets/comments/94awca/thousands_of_recipes_from_epicurious_bbc/
 
-   Seems to be the same crawl here, 140,000 English Recipes in computer-readable form with photos (same 4 sites, in HTML and JSON): https://archive.org/details/recipes-en-201706
+   * Seems to be the same crawl here, **140,000 English Recipes** in computer-readable form with photos (same 4 sites, in HTML and JSON): https://archive.org/details/recipes-en-201706 * 
 
    * related project looking at 3 decades of Epicurious food data (to look at food trends?):
   https://www.ceros.com/originals/epicurious-recipes-ingredients-part-2/
