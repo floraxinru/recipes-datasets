@@ -11,7 +11,7 @@ Good dataset to start with (from Kaggle playground competition)
 
 Related projects:
 
-   * Forked on Kaggle (retry, learn algorithms, improve):  Cuisine classifier *
+   * Forked on Kaggle (learn algorithms):  Cuisine classifier *
 https://www.kaggle.com/xinrucheng/cuisine-classification-with-accuracy-78-88/edit (Original: https://www.kaggle.com/rahulsridhar2811/cuisine-classification-with-accuracy-78-88)
 
    * Top 10 most used ingredients (improve with word-stemming)
@@ -36,8 +36,9 @@ recent fork with bug fixes:
 https://github.com/mtlynch/ingredient-phrase-tagger
 
 * OpenRecipes repo - dump of 173278 recipes in JSON
-a database of recipe bookmarks without food preparation instructions (good!) 
-(archived, Punchfork shutdown, "download DB dump" link doesn't work)
+a database of recipe bookmarks without food preparation instructions 
+
+(- archived, Punchfork shutdown, "download DB dump" link doesn't work)
 https://github.com/fictivekin/openrecipes
 
 
@@ -45,7 +46,7 @@ https://github.com/fictivekin/openrecipes
 https://eightportions.com/datasets/Recipes/#fn:1
 
 
-* Scrape of recipes from various websites (Epicurious, BBC, Allrecipes and Cookstr) (June 27: having trouble opening downloaded zipped files?)
+* Scrape of recipes from various websites (Epicurious, BBC, Allrecipes and Cookstr) (- June 27: having trouble opening downloaded zipped files?)
 
 https://www.reddit.com/r/datasets/comments/94awca/thousands_of_recipes_from_epicurious_bbc/
 
@@ -75,7 +76,7 @@ https://www.kaggle.com/theriley106/foodclassification/
 
 Technical article from NYTimes: "Extracting Structured Data From Recipes Using Conditional Random Fields" *
 
-   * Comments are very interesting also (found their (archived) GitHub code there)!
+   * Comments are very interesting also (found their (archived) GitHub code there)
 https://open.blogs.nytimes.com/2015/04/09/extracting-structured-data-from-recipes-using-conditional-random-fields/
 
    * https://github.com/nytimes/ingredient-phrase-tagger
@@ -91,12 +92,12 @@ NYTimes Cooking has a database of 17000+ recipes at the time of writing (April 2
 Kaggle dataset: 568454 fine food reviews from Amazon, from 1999 to 2012 (SQLite)
 https://www.kaggle.com/snap/amazon-fine-food-reviews
 
-(quite a few sentiment analysis projects, but someone did build a prediction system out of it - see top kernel) also fine foods here seem like fancy snacks and condiments, not foods for recipes 
+(quite a few sentiment analysis projects, but someone did build a prediction system out of it - see top kernel) also fine foods here seem like fancy snacks and condiments with brands, not foods for recipes 
 
 
 Reddit thread requesting labelled images of food:
 ("the keyword to search is grocery")
-Link to multiple datasets or image recognition on grocery items
+Link to multiple datasets or image recognition on grocery items (also mainly branded grocery items)
 https://www.reddit.com/r/datasets/comments/99lwyo/searching_labeled_food_dataset/
 
 US Food & Drug Admin (FDA), someone suggested on Reddit to go there to look for food/nutrition data?
