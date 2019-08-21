@@ -1,7 +1,7 @@
 # recipes-datasets
 ### Links to datasets on recipes and foods for recipe_recsys project
 
-* Kaggle - Using ingredients to categorize cuisine, in JSON (from What's Cooking competition)
+* Kaggle - Using ingredients to categorize cuisine, in JSON (from **[What's Cooking](https://www.kaggle.com/c/whats-cooking/data) competition data**)
 
 https://www.kaggle.com/kaggle/recipe-ingredients-dataset/home *
 
@@ -15,8 +15,7 @@ Related projects:
 https://www.kaggle.com/xinrucheng/cuisine-classification-with-accuracy-78-88/edit (Original: https://www.kaggle.com/rahulsridhar2811/cuisine-classification-with-accuracy-78-88)
 
    * Top 10 most used ingredients (improve with word-stemming)
-https://www.kaggle.com/manuelatadvice/noname - simple starter code, using original What's Cooking dataset (id, ingredients and *cuisine type, i.e. Indian*) https://www.kaggle.com/c/whats-cooking/data
-
+https://www.kaggle.com/manuelatadvice/noname - simple starter code, using original What's Cooking dataset (id, ingredients and *cuisine type, i.e. Indian*)
    * Cultural Diffusion by recipes https://www.kaggle.com/alonalevy/cultural-diffusion-by-recipes (original What's Cooking dataset)
 
    * Cluster food by cuisine - using Kmeans, read less readable? also has bugs
@@ -30,22 +29,6 @@ https://www.reddit.com/r/datasets/comments/8nc1d3/is_there_a_dataset_for_a_list_
   * Flavor network project https://github.com/lingcheng99/Flavor-Network *
   
   
-
-* NYT ingredient tagger - modified for Python in manugarri's blog
-
-https://github.com/NYTimes/ingredient-phrase-tagger
-
-http://blog.manugarri.com/nyt_tagger/
-
-recent fork with bug fixes:
-https://github.com/mtlynch/ingredient-phrase-tagger
-
-* OpenRecipes repo - dump of 173278 recipes in JSON
-a database of recipe bookmarks without food preparation instructions 
-
-(- archived, Punchfork shutdown, "download DB dump" link doesn't work)
-https://github.com/fictivekin/openrecipes
-
 
 * **recipe box**: Scrape of ~125,000 recipes (with cooking instructions) from various food websites, 70,000 have associated images
 https://eightportions.com/datasets/Recipes/#fn:1 [repo here](https://github.com/rtlee9/recipe-box)
@@ -107,3 +90,19 @@ https://www.reddit.com/r/datasets/comments/99lwyo/searching_labeled_food_dataset
 
 US Food & Drug Admin (FDA), someone suggested on Reddit to go there to look for food/nutrition data?
 https://open.fda.gov/
+
+* NYT ingredient tagger - modified for Python in manugarri's blog
+
+https://github.com/NYTimes/ingredient-phrase-tagger
+
+http://blog.manugarri.com/nyt_tagger/
+
+recent fork with bug fixes:
+https://github.com/mtlynch/ingredient-phrase-tagger
+
+* OpenRecipes repo - dump of 173278 recipes in JSON
+a database of recipe bookmarks without food preparation instructions 
+
+(- archived, Punchfork shutdown, "download DB dump" link doesn't work)
+https://github.com/fictivekin/openrecipes
+
