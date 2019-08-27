@@ -1,6 +1,8 @@
 # recipes-datasets
 ### Links to datasets on recipes and foods for recipe_recsys project
 
+Aug 26: Best data sets and related projects found so far are in **bold**
+
 * Kaggle - Using ingredients to categorize cuisine, in JSON (from **[What's Cooking](https://www.kaggle.com/c/whats-cooking/data) competition data**)
 
 https://www.kaggle.com/kaggle/recipe-ingredients-dataset/home *
