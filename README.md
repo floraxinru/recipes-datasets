@@ -16,10 +16,13 @@ https://www.kaggle.com/xinrucheng/cuisine-classification-with-accuracy-78-88/edi
 
    * Top 10 most used ingredients (improve with word-stemming)
 https://www.kaggle.com/manuelatadvice/noname - simple starter code, using original What's Cooking dataset (id, ingredients and *cuisine type, i.e. Indian*)
-   * Cultural Diffusion by recipes https://www.kaggle.com/alonalevy/cultural-diffusion-by-recipes (original What's Cooking dataset)
+   * **Cultural Diffusion by recipe**s https://www.kaggle.com/alonalevy/cultural-diffusion-by-recipes (original What's Cooking dataset)
 
    * Cluster food by cuisine - using Kmeans, read less readable? also has bugs
 https://www.kaggle.com/vincentclaes/clustering-food-by-cuisine
+
+   * Word2Vec with ingredients https://www.kaggle.com/ccorbi/word2vec-with-ingredients (comments in data cleaning and exploration were helpful, but unclear how they got from finding similar vectorized *ingredients* to clustering *cuisines*)
+   
 
 
 * Reddit - a collection of food dataset links (also look into flavor profile repo)
