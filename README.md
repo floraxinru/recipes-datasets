@@ -39,13 +39,17 @@ https://www.reddit.com/r/datasets/comments/8nc1d3/is_there_a_dataset_for_a_list_
 https://eightportions.com/datasets/Recipes/#fn:1 [repo here](https://github.com/rtlee9/recipe-box)
 
 
+
 * Scrape of recipes from various websites (Epicurious, BBC, Allrecipes and Cookstr) (- June 27: having trouble opening downloaded zipped files?)
 
 https://www.reddit.com/r/datasets/comments/94awca/thousands_of_recipes_from_epicurious_bbc/
 
+* OpenRecipes repo - dump of 173278 recipes in JSON - a database of recipe bookmarks *without* food preparation instructions 
+(archived, Punchfork shutdown, "download DB dump" link doesn't work)
+https://github.com/fictivekin/openrecipes     
+  - **a link in issues points to latest working file form 2017, try using wget?** https://github.com/fictivekin/openrecipes/issues/218#issuecomment-304931161
+
    * Seems to be the same crawl here, **140,000 English Recipes** in computer-readable form with photos (same 4 sites, in HTML and JSON): https://archive.org/details/recipes-en-201706 *  
-   
-    - **a link in issues points to latest working file form 2017, try using wget?** https://github.com/fictivekin/openrecipes/issues/218#issuecomment-304931161
 
    * related project looking at 3 decades of Epicurious food data (to look at food trends?):
   https://www.ceros.com/originals/epicurious-recipes-ingredients-part-2/
@@ -107,9 +111,5 @@ http://blog.manugarri.com/nyt_tagger/
 recent fork with bug fixes:
 https://github.com/mtlynch/ingredient-phrase-tagger
 
-* OpenRecipes repo - dump of 173278 recipes in JSON
-a database of recipe bookmarks without food preparation instructions 
 
-(- archived, Punchfork shutdown, "download DB dump" link doesn't work)
-https://github.com/fictivekin/openrecipes
 
