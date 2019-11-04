@@ -31,11 +31,11 @@ https://www.kaggle.com/vincentclaes/clustering-food-by-cuisine
 
 https://www.reddit.com/r/datasets/comments/8nc1d3/is_there_a_dataset_for_a_list_of_all_foods/
 
-  * Flavor network project https://github.com/lingcheng99/Flavor-Network *
+  * Flavor network project https://github.com/lingcheng99/Flavor-Network * -- original paper in Network Science on flavour networks is quite interesting! Also repo author mentioned using their data - worth looking into
   
   
 
-* **recipe box**: Scrape of ~125,000 recipes (with cooking instructions) from various food websites, 70,000 have associated images
+* **recipe box: Scrape of ~125,000 recipes (with cooking instructions) from various food websites, 70,000 have associated images**
 https://eightportions.com/datasets/Recipes/#fn:1 [repo here](https://github.com/rtlee9/recipe-box)
 
 
@@ -43,7 +43,9 @@ https://eightportions.com/datasets/Recipes/#fn:1 [repo here](https://github.com/
 
 https://www.reddit.com/r/datasets/comments/94awca/thousands_of_recipes_from_epicurious_bbc/
 
-   * Seems to be the same crawl here, **140,000 English Recipes** in computer-readable form with photos (same 4 sites, in HTML and JSON): https://archive.org/details/recipes-en-201706 * 
+   * Seems to be the same crawl here, **140,000 English Recipes** in computer-readable form with photos (same 4 sites, in HTML and JSON): https://archive.org/details/recipes-en-201706 *  
+   
+    - **a link in issues points to latest working file form 2017, try using wget?** https://github.com/fictivekin/openrecipes/issues/218#issuecomment-304931161
 
    * related project looking at 3 decades of Epicurious food data (to look at food trends?):
   https://www.ceros.com/originals/epicurious-recipes-ingredients-part-2/
