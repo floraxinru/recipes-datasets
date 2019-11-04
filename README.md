@@ -7,7 +7,7 @@ Aug 26: Best data sets and related projects found so far are in **bold**
 
 * Kaggle - Using ingredients to categorize cuisine, in JSON (from **[What's Cooking](https://www.kaggle.com/c/whats-cooking/data) competition data**)
 
-https://www.kaggle.com/kaggle/recipe-ingredients-dataset/home *
+https://www.kaggle.com/kaggle/recipe-ingredients-dataset/home * -- previously downloaded data (15.3MB, in JSON), but this link no longer works! Use 2MB what's cooking data instead?
 
 Good dataset to start with (from Kaggle playground competition) 
 
@@ -37,7 +37,7 @@ https://www.reddit.com/r/datasets/comments/8nc1d3/is_there_a_dataset_for_a_list_
   
   
 
-* **recipe box: Scrape of ~125,000 recipes (with cooking instructions) from various food websites, 70,000 have associated images**
+* **recipe box: Scrape of ~125,000 recipes (with cooking instructions) from various food websites, 70,000 have associated images** (50.9 MB download, 204.6 MB unzipped, JSON)
 https://eightportions.com/datasets/Recipes/#fn:1 [repo here](https://github.com/rtlee9/recipe-box)
 
 
